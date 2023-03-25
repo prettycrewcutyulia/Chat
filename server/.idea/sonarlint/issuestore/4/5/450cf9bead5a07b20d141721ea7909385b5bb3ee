@@ -1,0 +1,18 @@
+
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ğ¥ğÃñ0
+Y
+java:S2589>"7Remove this expression which always evaluates to "true"(úãŸˆøÿÿÿÿ8Ğ¥ğÃñ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Å¢äÒ8ä¥ğÃñ0
+s
+java:S1450"QRemove the "in" field and declare it as a local variable in the relevant methods.(Ó‘š„ûÿÿÿÿ8è¥ğÃñ0
+W
+java:S1161"":Add the "@Override" annotation above this method signature(“–ış8ò¥ğÃñ0
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ü€ôâ8ü¥ğÃñ0
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ş¥ğÃñ0
+E	java:S108C")Either remove or fill this block of code.(ï­£Ä8€¦ğÃñ0
+L
+java:S2093#"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¦ğÃñ0
+E	java:S108O")Either remove or fill this block of code.(ï­£Ä8ƒ¦ğÃñ0
+B
+java:S3398J" Move this method into "Handler".(Òõ½ÿÿÿÿÿ8ƒ¦ğÃñ0
